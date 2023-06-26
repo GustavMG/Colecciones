@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author GustavMG
+ *
+ */
+module Colecciones {
+}
